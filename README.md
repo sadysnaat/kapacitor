@@ -1,4 +1,5 @@
 # Kapacitor [![Circle CI](https://circleci.com/gh/influxdata/kapacitor/tree/master.svg?style=svg&circle-token=78c97422cf89526309e502a290c230e8a463229f)](https://circleci.com/gh/influxdata/kapacitor/tree/master) [![Docker pulls](https://img.shields.io/docker/pulls/library/kapacitor.svg)](https://hub.docker.com/_/kapacitor/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsadysnaat%2Fkapacitor.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsadysnaat%2Fkapacitor?ref=badge_shield)
 Open source framework for processing, monitoring, and alerting on time series data
 
 # Installation
@@ -80,3 +81,7 @@ kapacitor enable cpu_alert
 ```
 
 For more complete examples see the [documentation](https://docs.influxdata.com/kapacitor/latest/examples/).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsadysnaat%2Fkapacitor.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsadysnaat%2Fkapacitor?ref=badge_large)
